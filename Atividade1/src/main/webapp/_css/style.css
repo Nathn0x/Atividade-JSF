@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+    background-color: white;
+}
+
+header {
+    background: rgb(148, 148, 250);
+    width: auto;
+    padding: 2px 0 0 0%;
+    text-align: center;
+}
+
+.foto-cabeçalho {
+    width: auto;
+}
+
+img {
+    margin: 10px;
+    position: relative;
+    border: 1px solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-conteudo {
+
+    text-align: center;
+    line-height: 1em;
+    width: auto;
+}
+
+.container-contato {
+    margin: 0 0 0 10px ;
+    text-align: center;
+}
+
+.container-habcom {
+    margin: 0 0 0 10px ;
+    text-align: center;
+}
